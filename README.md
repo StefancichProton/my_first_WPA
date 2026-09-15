@@ -1,2 +1,3 @@
 # my_first_WPA
-a pwA of a calculator
+This is a HTML+JS calculator to be later deplyed as a PWA
+
